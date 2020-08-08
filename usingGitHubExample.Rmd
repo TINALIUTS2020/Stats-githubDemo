@@ -1,5 +1,5 @@
 ---
-title: "Group NO1!!!!!!!!!!!"
+title: "Group NO1!!!!"
 author: "Kirsty Kitto"
 output:
   html_document: default
